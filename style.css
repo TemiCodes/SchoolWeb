@@ -1,0 +1,41 @@
+
+html {
+ scroll-behavior: smooth;
+}
+
+body{
+  background-color: aqua;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+
+  font-family: 'Roboto Mono', monospace;
+}
+h3{
+  font-family: 'Roboto', sans-serif;
+
+  font-family: 'Roboto Mono', monospace;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+
+  font-family: 'Roboto Mono', monospace;
+}
+a{
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+#div1{
+  background-color: black;
+}
+#div2{
+  background-color: white;
+}
+.pergrade{
+  color: black;
+}
+nav{
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  background-color: white;
+}
